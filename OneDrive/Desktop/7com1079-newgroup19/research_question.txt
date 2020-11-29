@@ -1,0 +1,30 @@
+Group: new_group 19
+
+Question
+========
+
+RQ: Is there a correlation between the GPA scored and the salary earned by Engineering Graduates
+
+Null hypothesis: There is no correlation between the GPA scored and the salary earned by Engineering Graduates
+
+Alternative hypothesis: There is a correlation between the GPA scored and the salary earned by Engineering Graduates
+
+Dataset
+=======
+
+URL: https://www.kaggle.com/manishkc06/engineering-graduate-salary-prediction
+
+Column Headings:
+
+```
+[1] "ID"                    "Gender"                "DOB"                   "10percentage"         
+ [5] "10board"               "12graduation"          "12percentage"          "12board"              
+ [9] "CollegeID"             "CollegeTier"           "Degree"                "Specialization"       
+[13] "collegeGPA"            "CollegeCityID"         "CollegeCityTier"       "CollegeState"         
+[17] "GraduationYear"        "English"               "Logical"               "Quant"                
+[21] "Domain"                "ComputerProgramming"   "ElectronicsAndSemicon" "ComputerScience"      
+[25] "MechanicalEngg"        "ElectricalEngg"        "TelecomEngg"           "CivilEngg"            
+[29] "conscientiousness"     "agreeableness"         "extraversion"          "nueroticism"          
+[33] "openess_to_experience" "Salary"  
+
+```
