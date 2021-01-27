@@ -1,0 +1,24 @@
+Group: new_group 19
+
+Question
+========
+
+RQ: Is there any significant correlation between Area size and production of cotton in India?
+
+Null hypothesis: There is no significant correlation between Area size and production of cotton in India
+
+Alternative hypothesis: There is a significant correlation between Area size and production of cotton in India
+
+Dataset
+=======
+
+URL: https://www.kaggle.com/krishrocks/cotton-india-production
+
+Column Headings:
+
+```
+> read.csv("Data.csv")
+> colnames(Data)
+"Year"       "Area"       "Production" "Kg/Hectare" "irrigation"
+
+```
